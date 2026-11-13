@@ -14,7 +14,10 @@
 
 ## AI 与金融信息服务
 
-同花顺将自研金融大模型 HithinkGPT 和智能体技术用于金融数据查询、市场研究与信息解读。面向开发者，**Financial-API** 提供同花顺金融数据服务的接入文档、工具与示例，支持通过 REST API、MCP、CLI 和 Python SDK 将数据用于 AI Agent、量化研究和应用开发。面向个人投资者，**问财**支持用自然语言筛选股票、查询数据和解读公告，并将这些能力用于盘中跟踪和盘后复盘。面向机构，**iFinD** 将智能检索和研究报告辅助写作融入投研流程，并通过 **iFinD MCP** 将投研数据接入机构自己的 AI 工作环境。 [问财产品介绍](https://download.10jqka.com.cn/) · [同花顺半年度报告](https://static.cninfo.com.cn/finalpage/2026-08-22/1225491733.PDF)
+同花顺将自研金融大模型 HithinkGPT 和智能体技术用于金融数据查询、市场研究与信息解读。
+面向AI时代研究者，**Financial-API** 提供同花顺金融数据服务的接入文档、工具与示例，支持通过 REST API、MCP、CLI 和 Python SDK 将数据用于 AI Agent、量化研究和应用开发。
+面向个人投资者，**问财**支持用自然语言筛选股票、查询数据和解读公告，并将这些能力用于盘中跟踪和盘后复盘。
+面向机构，**iFinD** 将智能检索和研究报告辅助写作融入投研流程，并通过 **iFinD MCP** 将投研数据接入机构自己的 AI 工作环境。 [问财产品介绍](https://download.10jqka.com.cn/) · [同花顺半年度报告](https://static.cninfo.com.cn/finalpage/2026-08-22/1225491733.PDF)
 
 ## GitHub 公开项目
 
