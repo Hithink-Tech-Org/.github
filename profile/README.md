@@ -1,4 +1,4 @@
-# 同花顺 · HiThink
+# 同花顺 · HiThink Flush
 
 **同花顺官方 GitHub 组织**
 
